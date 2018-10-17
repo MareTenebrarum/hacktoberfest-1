@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Khinevich Karina](https://github.com/MareTenebrarum)
+- Place:Minsk, Belarus
+- Bio: Computer Science Student
+- GitHub: [MareTenebrarum](https://github.com/MareTenebrarum)
